@@ -1,0 +1,22 @@
+.container{
+    margin-top: 30px;
+    width: 50%;
+    height: 60%;
+    margin: 0 auto;
+    /* background-color: dimgrey; */
+    line-height: 60px;
+}
+
+.col-1{
+    border:  black ;
+    padding-right: 10px;
+}
+
+.col-4{
+    border:  black ;
+}
+
+#output{
+    float: right;
+    /* //clear: both; */
+}
